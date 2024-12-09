@@ -1,2 +1,2 @@
 ![SignIn](src/assets/SignIn.png)
-![SignUp](src/assests/SignUp.png)
+![SignUp](src/assets/SignUp.png)
