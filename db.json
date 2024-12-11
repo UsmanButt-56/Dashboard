@@ -1,0 +1,63 @@
+{
+  "Members": [
+    {
+      "id": "1",
+      "name": "Upashna Gurung",
+      "email": "uppaeygrg332@gmail.com",
+      "edit": "Can edit",
+      "images": "/assets/imgs/Ellipse 11.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Jeremy Lee",
+      "email": "jerrylee1996@gmail.com",
+      "edit": "Can edit",
+      "images": "/assets/imgs/Ellipse 11.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Thomas Park",
+      "email": "parktho123@gmail.com",
+      "edit": "Owner",
+      "images": "/assets/imgs/Ellipse 11.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Rachel Takahasi",
+      "email": "takahasirae32@gmail.com",
+      "edit": "Can edit",
+      "images": "/assets/imgs/Ellipse 11.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "9ced",
+      "firstname": "Usman",
+      "lastname": "Butt",
+      "username": "mmmmmmmmmm",
+      "email": "usman5113768@gmail.com",
+      "password": "12345",
+      "confirmpassword": "12345"
+    }
+  ],
+  "category": [],
+  "editTask": [],
+  "priority": [],
+  "account-info": [],
+  "password": [
+    {
+      "id": "47d3",
+      "current": "12345",
+      "new": "12345",
+      "confirm": "12345"
+    }
+  ],
+  "add_data": [
+    {
+      "id": "7e82",
+      "title": "Usman",
+      "date": "2024-11-14",
+      "description": "bxjsbcgjsgcgjscjsbc"
+    }
+  ]
+}
